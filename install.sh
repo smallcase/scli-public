@@ -57,4 +57,4 @@ else
 fi
 
 echo "Installation completed successfully."
-echo "You can now run 'yourtool' from the command line."
+echo "You can now run 'scli' from the command line."
